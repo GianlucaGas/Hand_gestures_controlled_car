@@ -1,2 +1,2 @@
-# Hand gesturs controlled car
+# Hand gestures controlled car
 A little project about a car controlled by gestures's hand
